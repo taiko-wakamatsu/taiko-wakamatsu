@@ -1,5 +1,7 @@
 # Hi, I'm Taiko 👋
 
+Building a solid understanding of web applications through hands-on practice with APIs, databases, and UI state management.
+
 ## About
 Webサービス開発を理解するために、  
 フロントエンド・API・データベースを横断した学習と個人開発を行っています。
